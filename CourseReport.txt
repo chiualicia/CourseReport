@@ -1,0 +1,19 @@
+Number: CSE 3500
+Name: Algorithms and Complexity
+Instructor: Sheppard, Peter; 16155; 175,000; 1981; Professor of Computer Science
+Instructor: O'brien, Lilia; 66301; 110,000; 1990; Professor of Computer Science
+Instructor: Sheppard, Peter; 16155; 175,000; 1981; Professor of Computer Science
+Staff: McHugh, Lee; 64487; 20,000; 2013; 3
+Staff: Pember, Raye; 81387; 15,000; 2017; 2
+Staff: Barlow, Connor; 27849; 10,000; 2021; 1
+Staff: Amane, Leonardo; 78038; 17,000; 2015; 2
+Staff: Chandler, Wesley; 87053; 10,000; 2021; 1
+Staff: Barlow, Gin; 27849; 10,000; 2021; 1
+Undergraduate: Valentine, Leia; 30030; FRESHMAN
+Undergraduate: Barrow, Janice; 77627; SENIOR
+Undergraduate: Miyawaki, Mark; 36255; JUNIOR
+Undergraduate: Miyawaki, Mark; 36255; JUNIOR
+Undergraduate: Lynch, Kieron; 40343; SOPHOMORE
+Graduate: Emerick, Harris; 69498; MASTERS
+Graduate: Emerick, Harris; 69498; MASTERS
+Graduate: Cruz, Derek; 12212; DOCTORAL
